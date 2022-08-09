@@ -1,9 +1,9 @@
 /*
 Developed by: (Group 11)
-Muhammad Syah Firdaus Bin Shahruzzaman (B031910160)			(main function, compiler)
-Logan A/L Balakrishnan (B031910093)							(food and drink function)
-Muhammad Syahmie Fakhri Bin Ahmad Azhar (B031910107)		(dessert function and overall idea)
-Muhammad Aizat Fahmi Bin Adbull Ropor (B031910123)			(receipt function and payment & change)
+Muhammad Syah Firdaus Bin Shahruzzaman 		(main function, compiler)
+Logan A/L Balakrishnan 						(food and drink function)
+Muhammad Syahmie Fakhri Bin Ahmad Azhar	(dessert function and overall idea)
+Muhammad Aizat Fahmi Bin Adbull Ropor 		(receipt function and payment & change)
 */
 
 #include <iostream>
@@ -245,7 +245,7 @@ double order3(ofstream& oFile, double& dessert, int& s, int& l)
 		{"Sundae  \t"},
 		{"Caramel Brownie "},
 		{"Cheesecake      "},
-		{"coconut soufflé "},
+		{"coconut soufflÃ© "},
 		{"Matcha cake     "},
 	};												//List of dessert in array of 5 rows and 1 column
 	
